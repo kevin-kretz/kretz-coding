@@ -5,4 +5,4 @@
 ## Primary Goal
 Learn how to build a website by recreating Apple's homepage.
 
-![Apple website screenshot](./full-apple-website.png)
+![Apple website screenshot](./apple-website.png)
